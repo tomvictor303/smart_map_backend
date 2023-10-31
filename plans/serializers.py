@@ -1,5 +1,5 @@
 from rest_framework import serializers 
-from plans.models import Plan, PlanPriority
+from plans.models import Plan
  
  
 class PlanSerializer(serializers.ModelSerializer):
@@ -9,13 +9,5 @@ class PlanSerializer(serializers.ModelSerializer):
         fields = ('id',
                   'task',
                   'person',
-                  'date')
-
-class PlanPrioritySerializer(serializers.ModelSerializer):
- 
-    class Meta:
-        model = PlanPriority
-        fields = ('id',
-                  'priorities',
-                  'person',
-                  'date')
+                  'date'
+                  'priority')
