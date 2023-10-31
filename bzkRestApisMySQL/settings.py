@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     'rest_framework',
     # Tutorials application 
     'tutorials.apps.TutorialsConfig',
+    # Plans application 
+    'plans.apps.PlansConfig',
     # CORS
     'corsheaders',
 ]
