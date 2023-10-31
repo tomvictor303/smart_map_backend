@@ -23,17 +23,10 @@ def plan_list(request):
         plan_serializer = PlanSerializer(data=plan_data)
         if not plan_serializer.is_valid():            
           return JsonResponse(plan_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-        # Save only if it does not already exist
+        # Save only if it does not already exists
         if not Plan.objects.filter(person=plan_data['person'], date=plan_data['date'], task=plan_data['task']).exists():
           plan_serializer.save()
         return JsonResponse(plan_serializer.data, status=status.HTTP_201_CREATED) 
-    
-    elif request.method == 'DELETE':
-        to_delete_id = request.GET.get('id', None)
-        if to_delete_id is not None:
-            count = Plan.objects.filter(id=to_delete_id).delete()
-            return JsonResponse({'message': 'Deleted successfully'}, status=status.HTTP_204_NO_CONTENT)
-        return JsonResponse({'message': 'Item with provided ID is not exist!'}, status=status.HTTP_204_NO_CONTENT)
  
 # @api_view(['POST'])
 # def plan_delete(request):
