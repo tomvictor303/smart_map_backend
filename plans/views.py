@@ -24,7 +24,11 @@ def plan_list(request):
         if not plan_serializer.is_valid():            
           return JsonResponse(plan_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         # Save only if it does not already exists
-        if not Plan.objects.filter(person=plan_data['person'], date=plan_data['date'], task=plan_data['task']).exists():
+        exists = Plan.objects.filter(person=plan_data['person'], date=plan_data['date'], task=plan_data['task'])
+        if exists.count():
+          first_exist_serializer = PlanSerializer(exists[0])
+          return JsonResponse(first_exist_serializer.data, status=status.HTTP_201_CREATED) 
+        else:
           plan_serializer.save()
         return JsonResponse(plan_serializer.data, status=status.HTTP_201_CREATED) 
  
