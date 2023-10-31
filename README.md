@@ -1,3 +1,7 @@
+# Smart Map Backend
+
+# Content from https://github.com/bezkoder/django-rest-api-mysql
+
 # Django Restful CRUD API with MySQL example
 
 For more detail, please visit:
