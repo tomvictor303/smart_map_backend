@@ -32,6 +32,7 @@ def task_list(request):
                  'id': 'device_' + row['lat'] + '_' + row['lon'],
                  'dataset': 'device' 
               })
+        # send Json
         return JsonResponse(rows, safe=False)
         # 'safe=False' for objects serialization
  
