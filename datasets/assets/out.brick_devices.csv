@@ -1,0 +1,81 @@
+category,info,lat,lon,marker_size,marker_color,label,tool_tip
+Device,G2 420-2|BG16653|smart_tractor|Agriculture Capital|128.59 hours,-35.8086853,145.7975159,2,red,,G2 420-2|BG16653|smart_tractor|Agriculture Capital|128.59 hours|2|##########|02.513.00.04.442
+Device,AC-TRC-DE-115G|BG16682|smart_tractor|Agriculture Capital|128.54 hours,-35.6744308,145.7853851,2,red,,AC-TRC-DE-115G|BG16682|smart_tractor|Agriculture Capital|128.54 hours|2|##########|02.513.00.04.442
+Device,Tractor 11|BG18806|smart_tractor|AgriMACS - White Alpha II|146.59 hours,47.2782097,-119.6038742,2,red,,Tractor 11|BG18806|smart_tractor|AgriMACS - White Alpha II|146.59 hours|2|##########|02.504.01.00.429
+Device,"KUB39|BG14198|smart_tractor|Batth Farms, Inc|146.46 hours",36.5307579,-119.9311905,2,red,,"KUB39|BG14198|smart_tractor|Batth Farms, Inc|146.46 hours|2|##########|02.504.01.00.429"
+Device,"KUB138|BG14417|smart_tractor|Batth Farms, Inc|146.59 hours",36.5310478,-119.9304962,2,red,,"KUB138|BG14417|smart_tractor|Batth Farms, Inc|146.59 hours|2|##########|02.504.01.00.429"
+Device,"KUB120|BG14544|smart_tractor|Batth Farms, Inc|146.59 hours",36.5308266,-119.9311523,2,red,,"KUB120|BG14544|smart_tractor|Batth Farms, Inc|146.59 hours|2|##########|02.504.01.00.429"
+Device,"KUB115|BG13124|smart_tractor|Batth Farms, Inc|146.46 hours",36.5327721,-119.8864975,2,red,,"KUB115|BG13124|smart_tractor|Batth Farms, Inc|146.46 hours|2|##########|02.504.01.00.429"
+Device,"KUB130|BG13163|smart_tractor|Batth Farms, Inc|146.47 hours",36.531723,-119.930191,2,red,,"KUB130|BG13163|smart_tractor|Batth Farms, Inc|146.47 hours|2|##########|02.504.01.00.429"
+Device,AB1193|BG20005|smart_tractor|Columbia Farm Services - Orondo|146.56 hours,47.7285767,-120.1750259,2,red,,AB1193|BG20005|smart_tractor|Columbia Farm Services - Orondo|146.56 hours|2|##########|02.503.50.00.419
+Device,AB1195|BG20104|smart_tractor|Columbia Farm Services - Orondo|146.59 hours,47.7289352,-120.1745377,2,red,,AB1195|BG20104|smart_tractor|Columbia Farm Services - Orondo|146.59 hours|2|##########|02.504.01.00.429
+Device,A 1216|BG18124|smart_tractor|Columbia Farms - Quincy|143.47 hours,47.268959,-119.8921432,2,red,,A 1216|BG18124|smart_tractor|Columbia Farms - Quincy|143.47 hours|2|##########|02.510.01.10.431
+Device,KUB438|BG15073|smart_tractor|Creekside Farming|146.51 hours,37.1492386,-120.2154694,2,red,,KUB438|BG15073|smart_tractor|Creekside Farming|146.51 hours|2|##########|02.504.01.00.429
+Device,KUB447|BG15312|smart_tractor|Creekside Farming|146.54 hours,36.8791046,-119.9885559,2,red,,KUB447|BG15312|smart_tractor|Creekside Farming|146.54 hours|2|##########|02.504.01.00.429
+Device,KUB610|BG14332|smart_tractor|Creekside Farming|146.59 hours,36.8752937,-120.0014648,2,red,,KUB610|BG14332|smart_tractor|Creekside Farming|146.59 hours|2|##########|02.504.01.00.429
+Device,JD318|BG18949|smart_tractor|Creekside Farming|146.57 hours,37.1361656,-120.2037659,2,red,,JD318|BG18949|smart_tractor|Creekside Farming|146.57 hours|2|##########|02.504.01.00.429
+Device,SH751|BG18243|shaker|Creekside Farming|129.51 hours,36.8493385,-120.0465088,2,red,,SH751|BG18243|shaker|Creekside Farming|129.51 hours|2|##########|02.510.01.10.431
+Device,KUB-443|BG13149|smart_tractor|Creekside Farming|146.59 hours,37.15802,-120.2180023,2,red,,KUB-443|BG13149|smart_tractor|Creekside Farming|146.59 hours|2|##########|02.513.00.04.442
+Device,JD327|BG13161|smart_tractor|Creekside Farming|146.46 hours,37.1497841,-120.2163773,2,red,,JD327|BG13161|smart_tractor|Creekside Farming|146.46 hours|2|##########|02.504.01.00.429
+Device,16040 OMC SH (684)|BG18772|shaker|Del Mar Farms - JEM Ranches|146.59 hours,37.4075279,-121.0766296,2,red,,16040 OMC SH (684)|BG18772|shaker|Del Mar Farms - JEM Ranches|146.59 hours|2|##########|02.504.01.00.429
+Device,FB JD 5115ML (1209)|BG16379|smart_tractor|Del Mar Farms - JEM Ranches|146.57 hours,37.407383,-121.0762482,2,red,,FB JD 5115ML (1209)|BG16379|smart_tractor|Del Mar Farms - JEM Ranches|146.57 hours|2|##########|02.504.01.00.429
+Device,T239|FL16364|smart_tractor|Deseret Farms|146.52 hours,40.0666122,-122.2464294,2,red,,T239|FL16364|smart_tractor|Deseret Farms|146.52 hours|2|##########|02.504.01.00.429
+Device,JD5090GN-902|BG15782|smart_tractor|Diamond West Farming|146.56 hours,34.7636833,-120.3889923,2,red,,JD5090GN-902|BG15782|smart_tractor|Diamond West Farming|146.56 hours|2|##########|02.504.01.00.429
+Device,138638|BG18923|weed_sprayer|E & J Gallo|146.59 hours,38.2492676,-121.1867447,2,red,,138638|BG18923|weed_sprayer|E & J Gallo|146.59 hours|2|##########|02.504.01.00.429
+Device,EXACT SPRAYER 04|BG18132|weed_sprayer|Englehardt Ag Services|146.59 hours,40.0698509,-122.1915665,2,red,,EXACT SPRAYER 04|BG18132|weed_sprayer|Englehardt Ag Services|146.59 hours|2|##########|02.504.01.00.429
+Device,P65-BO-310|BG16193|almonds_bankout|Farmland|146.59 hours,38.9621773,-121.3986206,2,red,,P65-BO-310|BG16193|almonds_bankout|Farmland|146.59 hours|2|##########|02.504.01.00.429
+Device,SB-KM6-323|BG14403|smart_tractor|Farmland|146.49 hours,38.302433,-121.2084351,2,red,,SB-KM6-323|BG14403|smart_tractor|Farmland|146.49 hours|2|##########|02.504.01.00.429
+Device,SP-SH-203|BG18941|shaker|Farmland|146.54 hours,39.0017014,-121.3997803,2,red,,SP-SH-203|BG18941|shaker|Farmland|146.54 hours|2|##########|02.504.01.00.429
+Device,JD5115M-3387 (new alias JHL-010423)|BG15819|smart_tractor|Farmland|146.59 hours,35.7253761,-119.3665085,2,red,,JD5115M-3387 (new alias JHL-010423)|BG15819|smart_tractor|Farmland|146.59 hours|2|##########|02.504.01.00.429
+Device,P65-SH-170|BG15860|shaker|Farmland|146.46 hours,38.9628487,-121.3984299,2,red,,P65-SH-170|BG15860|shaker|Farmland|146.46 hours|2|##########|02.504.01.00.429
+Device,SA-BO-010|BG18135|almonds_bankout|Farmland|146.51 hours,37.5660362,-120.6746902,2,red,,SA-BO-010|BG18135|almonds_bankout|Farmland|146.51 hours|2|##########|02.504.01.00.429
+Device,SH2|BG18407|shaker|Farmland|146.59 hours,37.5578384,-120.6846848,2,red,,SH2|BG18407|shaker|Farmland|146.59 hours|2|##########|02.504.01.00.429
+Device,SW1|BG18673|sweeper|Farmland|146.52 hours,37.5660172,-120.6748581,2,red,,SW1|BG18673|sweeper|Farmland|146.52 hours|2|##########|02.504.01.00.429
+Device,TXS-010315|BG18689|shaker|Farmland|146.54 hours,35.8203201,-119.305397,2,red,,TXS-010315|BG18689|shaker|Farmland|146.54 hours|2|##########|02.504.01.00.429
+Device,TR-JD5125-026|BG14607|smart_tractor|Farmland|146.56 hours,40.0400505,-122.233223,2,red,,TR-JD5125-026|BG14607|smart_tractor|Farmland|146.56 hours|2|##########|02.504.01.00.429
+Device,TB-JD5115-436|BG14672|smart_tractor|Farmland|146.59 hours,39.9691124,-122.2552414,2,red,,TB-JD5115-436|BG14672|smart_tractor|Farmland|146.59 hours|2|##########|02.504.01.00.429
+Device,TR-SH-050|BG16564|shaker|Farmland|146.54 hours,40.0395584,-122.2332382,2,red,,TR-SH-050|BG16564|shaker|Farmland|146.54 hours|2|##########|02.504.01.00.429
+Device,G09|BG15773|smart_tractor|Gallo Coastal|146.59 hours,38.7588654,-122.9772568,2,red,,G09|BG15773|smart_tractor|Gallo Coastal|146.59 hours|2|##########|02.504.01.00.429
+Device,25-125|BG18363|smart_tractor|Gallo Coastal|146.56 hours,38.5427246,-122.861145,2,red,,25-125|BG18363|smart_tractor|Gallo Coastal|146.56 hours|2|##########|02.504.01.00.429
+Device,25-98|BG16615|smart_tractor|Gallo Coastal|146.51 hours,38.5271683,-122.9044113,2,red,,25-98|BG16615|smart_tractor|Gallo Coastal|146.51 hours|2|##########|02.504.01.00.429
+Device,T68|BG20123|smart_tractor|Gilbert Orchards Inc|146.57 hours,46.7673111,-119.6029129,2,red,,T68|BG20123|smart_tractor|Gilbert Orchards Inc|146.57 hours|2|##########|02.504.01.00.429
+Device,T04|BG18373|smart_tractor|Gold Leaf|146.47 hours,35.4715118,-113.9085007,2,red,,T04|BG18373|smart_tractor|Gold Leaf|146.47 hours|2|##########|02.504.01.00.429
+Device,G05|BG18387|smart_tractor|Gold Leaf|146.56 hours,35.4479752,-113.9002609,2,red,,G05|BG18387|smart_tractor|Gold Leaf|146.56 hours|2|##########|02.504.01.00.429
+Device,HPA-TRC-NH-39|BG18753|smart_tractor|Hop Products Australia|125.42 hours,-36.6236191,146.8039093,2,red,,HPA-TRC-NH-39|BG18753|smart_tractor|Hop Products Australia|125.42 hours|2|##########|02.503.50.00.419
+Device,TRC136|BG18812|smart_tractor|KG Vineyards|146.51 hours,38.152565,-121.6258698,2,red,,TRC136|BG18812|smart_tractor|KG Vineyards|146.51 hours|2|##########|02.512.01.00.441
+Device,JD19-09|BG15931|smart_tractor|Kisling Farms LLC|146.47 hours,36.1668816,-119.309494,2,red,,JD19-09|BG15931|smart_tractor|Kisling Farms LLC|146.47 hours|2|##########|02.504.01.00.429
+Device,T8022|BG14856|smart_tractor|KMO|146.47 hours,47.3290939,-120.3201599,2,red,,T8022|BG14856|smart_tractor|KMO|146.47 hours|2|##########|02.504.01.00.429
+Device,1107|BG15410|smart_tractor|Lange Twins|146.49 hours,38.1572762,-121.0730438,2,red,,1107|BG15410|smart_tractor|Lange Twins|146.49 hours|2|##########|02.504.01.00.429
+Device,T0312-20|BG14364|smart_tractor|Lawrence Orchards|143.61 hours,46.9499054,-119.5261307,2,red,,T0312-20|BG14364|smart_tractor|Lawrence Orchards|143.61 hours|2|##########|02.504.01.00.429
+Device,HT-627-JD5115M|BG20007|smart_tractor|Mesa Vineyard|146.59 hours,36.4530792,-121.4532318,2,red,,HT-627-JD5115M|BG20007|smart_tractor|Mesa Vineyard|146.59 hours|2|##########|02.504.01.00.429
+Device,HT-270-JD5115M|BG20017|smart_tractor|Mesa Vineyard|146.59 hours,36.4532471,-121.4530487,2,red,,HT-270-JD5115M|BG20017|smart_tractor|Mesa Vineyard|146.59 hours|2|##########|02.504.01.00.429
+Device,SS009|BG18828|smart_tractor|Olam|146.56 hours,35.2823715,-119.1631775,2,red,,SS009|BG18828|smart_tractor|Olam|146.56 hours|2|##########|02.504.01.00.429
+Device,SS012|BG20009|smart_tractor|Olam|146.57 hours,35.2831383,-119.162674,2,red,,SS012|BG20009|smart_tractor|Olam|146.57 hours|2|##########|02.504.01.00.429
+Device,OL-Trc-FE-24|BG18757|smart_tractor|OLAM AUSTRALIA|128.57 hours,-34.8272667,142.6607056,2,red,,OL-Trc-FE-24|BG18757|smart_tractor|OLAM AUSTRALIA|128.57 hours|2|##########|02.513.00.04.442
+Device,OL-Trk-FL-850|BG16550|weed_sprayer|OLAM AUSTRALIA|128.57 hours,-34.8102379,142.5440826,2,red,,OL-Trk-FL-850|BG16550|weed_sprayer|OLAM AUSTRALIA|128.57 hours|2|##########|02.513.00.04.442
+Device,OL-Trk-FL-852|BG16692|smart_tractor|OLAM AUSTRALIA|128.52 hours,-34.8270645,142.6608124,2,red,,OL-Trk-FL-852|BG16692|smart_tractor|OLAM AUSTRALIA|128.52 hours|2|##########|02.513.00.04.442
+Device,OL-Trc-FE-160|BG16693|smart_tractor|OLAM AUSTRALIA|128.52 hours,-34.7547035,142.718277,2,red,,OL-Trc-FE-160|BG16693|smart_tractor|OLAM AUSTRALIA|128.52 hours|2|##########|02.513.00.04.442
+Device,OL-Trc-FE-21|BG20171|smart_tractor|OLAM AUSTRALIA|126.57 hours,-34.818615,142.5748138,2,red,,OL-Trc-FE-21|BG20171|smart_tractor|OLAM AUSTRALIA|126.57 hours|2|##########|02.513.00.04.442
+Device,SW3|BG16802|sweeper|Palla Farms|146.51 hours,35.1827507,-119.0813904,2,red,,SW3|BG16802|sweeper|Palla Farms|146.51 hours|2|##########|02.504.01.00.429
+Device,SW4|BG18039|sweeper|Palla Farms|146.54 hours,35.1826477,-119.0814209,2,red,,SW4|BG18039|sweeper|Palla Farms|146.54 hours|2|##########|02.504.01.00.429
+Device,SW6|BG18848|sweeper|Palla Farms|146.51 hours,35.1827774,-119.0813675,2,red,,SW6|BG18848|sweeper|Palla Farms|146.51 hours|2|##########|02.503.50.00.419
+Device,SW1|BG18232|sweeper|Palla Farms|146.54 hours,35.1826897,-119.0814514,2,red,,SW1|BG18232|sweeper|Palla Farms|146.54 hours|2|##########|02.504.01.00.429
+Device,SW5|BG16763|sweeper|Palla Farms|146.52 hours,35.1827011,-119.0813904,2,red,,SW5|BG16763|sweeper|Palla Farms|146.52 hours|2|##########|02.504.01.00.429
+Device,SU03|BG18069|almonds_bankout|Rakkar Farms|146.61 hours,36.8799896,-120.039856,2,red,,SU03|BG18069|almonds_bankout|Rakkar Farms|146.61 hours|2|##########|02.504.01.00.429
+Device,JD 5105 #2|FL15852|smart_tractor|Ron Tadlock Farms|146.54 hours,38.8166313,-121.9165573,2,red,,JD 5105 #2|FL15852|smart_tractor|Ron Tadlock Farms|146.54 hours|2|##########|02.504.01.00.429
+Device,109|BG14159|smart_tractor|Strain Farming Co.|146.57 hours,39.0469398,-121.9608917,2,red,,109|BG14159|smart_tractor|Strain Farming Co.|146.57 hours|2|##########|02.504.01.00.429
+Device,OX02|BG20059|harvester|Sunrise Olive|144.22 hours,35.7470551,-119.4371567,2,red,,OX02|BG20059|harvester|Sunrise Olive|144.22 hours|2|##########|02.504.01.00.429
+Device,B06|BG18852|almonds_bankout|Triple A|146.54 hours,37.6806641,-120.6165314,2,red,,B06|BG18852|almonds_bankout|Triple A|146.54 hours|2|##########|02.512.01.00.441
+Device,B03|FL14132|almonds_bankout|Triple A|146.52 hours,37.6806221,-120.6166306,2,red,,B03|FL14132|almonds_bankout|Triple A|146.52 hours|2|##########|02.512.01.00.441
+Device,B05|FL14619|almonds_bankout|Triple A|146.51 hours,37.6805344,-120.6165314,2,red,,B05|FL14619|almonds_bankout|Triple A|146.51 hours|2|##########|02.512.01.00.441
+Device,TR 6|BG18222|smart_tractor|Viticultural Management Inc|146.59 hours,35.6183891,-120.6311874,2,red,,TR 6|BG18222|smart_tractor|Viticultural Management Inc|146.59 hours|2|##########|02.504.01.00.429
+Device,R26-6|BG18056|smart_tractor|WA Farmland|146.59 hours,46.4152794,-120.128479,2,red,,R26-6|BG18056|smart_tractor|WA Farmland|146.59 hours|2|##########|02.504.01.00.429
+Device,JD23 - AUT|BG18882|smart_tractor|Wawona Farming|146.54 hours,36.6460648,-119.9724045,2,red,,JD23 - AUT|BG18882|smart_tractor|Wawona Farming|146.54 hours|2|##########|02.504.01.00.429
+Device,NH61|BG18674|smart_tractor|Wawona Farming|142.49 hours,36.3414688,-119.3972168,2,red,,NH61|BG18674|smart_tractor|Wawona Farming|142.49 hours|2|##########|02.504.01.00.429
+Device,SH986a|BG18690|shaker|Westside Harvesting|143.29 hours,36.101593,-120.0160675,2,red,,SH986a|BG18690|shaker|Westside Harvesting|143.29 hours|2|##########|02.504.01.00.429
+Device,T90|BG14855|smart_tractor|Zirkle Fruit. CRO|105.47 hours,47.2831306,-120.0698624,2,red,,T90|BG14855|smart_tractor|Zirkle Fruit. CRO|105.47 hours|2|##########|02.504.01.00.429
+Device,T83|BG14860|smart_tractor|Zirkle Fruit. CRO|143.61 hours,46.9444313,-119.3154526,2,red,,T83|BG14860|smart_tractor|Zirkle Fruit. CRO|143.61 hours|2|##########|02.504.01.00.429
+Device,T12|BG20192|smart_tractor|Zirkle Fruit. Othello|146.57 hours,46.9446297,-119.3152771,2,red,,T12|BG20192|smart_tractor|Zirkle Fruit. Othello|146.57 hours|2|##########|02.504.01.00.429
+Device,T13 OC|BG20225|smart_tractor|Zirkle Fruit. Othello|146.57 hours,46.9375114,-119.3387299,2,red,,T13 OC|BG20225|smart_tractor|Zirkle Fruit. Othello|146.57 hours|2|##########|02.504.01.00.429
+Device,T04 OC|BG20100|smart_tractor|Zirkle Fruit. Othello|146.59 hours,46.947464,-119.4792786,2,red,,T04 OC|BG20100|smart_tractor|Zirkle Fruit. Othello|146.59 hours|2|##########|02.504.01.00.429
+Device,T11|BG16674|smart_tractor|Zirkle Fruit. Royal City|146.59 hours,46.9600105,-119.8429413,2,red,,T11|BG16674|smart_tractor|Zirkle Fruit. Royal City|146.59 hours|2|##########|02.513.00.04.442
