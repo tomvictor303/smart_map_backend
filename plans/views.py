@@ -8,6 +8,7 @@ from plans.models import Plan
 from plans.serializers import PlanSerializer
 from rest_framework.decorators import api_view
 from django.db import connection
+from django.db.models import Max
 
 @api_view(['GET', 'POST', 'DELETE'])
 def plan_list(request):
@@ -20,16 +21,23 @@ def plan_list(request):
  
     elif request.method == 'POST':
         params = JSONParser().parse(request)
-        plan_serializer = PlanSerializer(data=params)
-        if not plan_serializer.is_valid():            
-          return JsonResponse(plan_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-        # Save only if it does not already exists
+        # BEGIN check_already_exists
         exists = Plan.objects.filter(person=params['person'], date=params['date'], task=params['task'])
         if exists.count():
           first_exist_serializer = PlanSerializer(exists[0])
-          return JsonResponse(first_exist_serializer.data, status=status.HTTP_201_CREATED) 
-        else:
-          plan_serializer.save()
+          return JsonResponse(first_exist_serializer.data, status=status.HTTP_201_CREATED)
+        # END check_already_exists
+          
+        # BEGIN get_max_priority_number       
+        aggs = Plan.objects.filter(person=params['person'], date=params['date']).aggregate(Max('priority'))
+        max_priority_number = aggs['priority__max'] if aggs['priority__max'] else 0
+        params['priority'] = max_priority_number + 1
+        # END get_max_priority_number
+        plan_serializer = PlanSerializer(data=params)
+        if not plan_serializer.is_valid():            
+          return JsonResponse(plan_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        # now save...
+        plan_serializer.save()
         return JsonResponse(plan_serializer.data, status=status.HTTP_201_CREATED) 
  
 @api_view(['POST'])

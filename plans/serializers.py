@@ -9,5 +9,5 @@ class PlanSerializer(serializers.ModelSerializer):
         fields = ('id',
                   'task',
                   'person',
-                  'date'
+                  'date',
                   'priority')
