@@ -7,6 +7,7 @@ class TechnicianSerializer(serializers.ModelSerializer):
     class Meta:
         model = Technician
         fields = ('id',
-                  'title',
-                  'description',
-                  'published')
+                  'first_name',
+                  'last_name',
+                  'lat',
+                  'lon')
