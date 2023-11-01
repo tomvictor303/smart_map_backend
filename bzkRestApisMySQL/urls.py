@@ -6,4 +6,5 @@ urlpatterns = [
   url(r'^api/tutorials/', include('tutorials.urls')),
   url(r'^api/datasets/', include('datasets.urls')),
   url(r'^api/plans/', include('plans.urls')),
+  url(r'^api/technicians/', include('technicians.urls')),
 ]

@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'tutorials.apps.TutorialsConfig',
     # Plans application 
     'plans.apps.PlansConfig',
+    # Technicians application 
+    'technicians.apps.TechniciansConfig',
     # CORS
     'corsheaders',
 ]
