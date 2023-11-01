@@ -10,16 +10,16 @@ from rest_framework import status
 from technicians.models import Technician
 from technicians.serializers import TechnicianSerializer
 from rest_framework.decorators import api_view
-
+from django.db.models import Q
 
 @api_view(['GET', 'POST', 'DELETE'])
 def technician_list(request):
     if request.method == 'GET':
         technicians = Technician.objects.all()
         
-        # title = request.GET.get('title', None)
-        # if title is not None:
-        #     technicians = technicians.filter(title__icontains=title)
+        s_name = request.GET.get('name', None)
+        if s_name is not None:
+            technicians = technicians.filter(Q(first_name__icontains=s_name) | Q(last_name__icontains=s_name))
         
         technicians_serializer = TechnicianSerializer(technicians, many=True)
         return JsonResponse(technicians_serializer.data, safe=False)
